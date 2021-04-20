@@ -19,3 +19,7 @@ cargo make run
 ```
 
 ![Screenshot](https://mrk.sed.pl/bevy-showcase/assets/bevy_webgl2_app_template.png?v=3)
+
+## Link to demo github page
+
+https://byunei.github.io/bevy_webgl2_app_template
