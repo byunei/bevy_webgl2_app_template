@@ -25,6 +25,7 @@ web = [
 [dependencies]
 bevy = {version="0.5.0", default-features=false}
 bevy_webgl2 = {version="0.5.0", optional=true}
+bevy_flycam = { git = "https://github.com/sburris0/bevy_flycam" }
 
 winit = {version = "0.24.0"}
 rand = "0.7"
